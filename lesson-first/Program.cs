@@ -6,7 +6,7 @@ namespace lesson_first
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("lesson1");
+            Console.WriteLine("homework-lesson2");
         }
     }
 }
